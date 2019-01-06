@@ -5,9 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
 
-### More Information
 
 I am a passionate Software Evangelist with a track record for community building. 
 I have a strong understanding of cloud computing technologies and emerging trends in the technology industry. I have always been interested in navigating new channel, as well as approaches to customer acquisition. 
