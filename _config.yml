@@ -23,7 +23,7 @@ navigation:
   - name: Blog
     url: /
   - name: Resources
-    url: /
+    url: /resources
   - name: About
     url: /about
   - name: Podcast
