@@ -1,3 +1,3 @@
-## A New Post
+##
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+List of all the Resources I have found helpful as an Entrepreneur and a small-business-owner. 
