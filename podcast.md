@@ -1,6 +1,9 @@
-**I listen to a lot of Podcast. Bangalore traffic is really bad. So I have a lot of time to listen to podcast while I travel.**
+**I enjoy a lot of podcasts for both information and entertainment.
+Friends usually ask me to recommend podcasts to them.
+Here is a partial list of the podcasts to which I listen. I ’ll update this page from time to time.**
 
-Here are few podcast I recommend.  
+**Here is the list of the podcast that are definitely my favorites.** 
+
 
 
 - This American Life
