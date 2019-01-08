@@ -5,9 +5,10 @@ Here is a partial list of the podcasts to which I listen. I ’ll update this pa
 
 **Here is the list of the podcast that are definitely my favorites.** 
 
+Non-fiction
 
-
-- This American Life
-- Serial
-- How I Built this - Guy Raz
-- Revisionist History
+- [This American Life](https://www.thisamericanlife.org/listen "This American Life")
+- [Freakonomics](http://freakonomics.com/ "Freakonomics")
+- [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this "How I Built This")
+- [a16z](https://a16z.com/podcasts/ "a16z podcast")
+- [Planet Money](https://www.npr.org/podcasts/510289/planet-money "Planet Money Podcast")
