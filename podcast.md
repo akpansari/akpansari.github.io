@@ -5,7 +5,7 @@ Here is a partial list of the podcasts to which I listen. I ’ll update this pa
 
 **Here is the list of the podcast that are definitely my favorites.** 
 
-Non-fiction
+**Global Podcast**
 
 - [This American Life](https://www.thisamericanlife.org/listen "This American Life")
 - [Freakonomics](http://freakonomics.com/ "Freakonomics")
@@ -16,3 +16,7 @@ Non-fiction
 - [Exponent](https://exponent.fm/ "Exponent Podcast")
 - [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain "Hidden Brain Podcast")
 - [Masters of Scale](https://mastersofscale.com/ "Masters of Scale Podcast")
+- [Radiolab](https://www.wnycstudios.org/shows/radiolab "Radiolab Podcast")
+- [Conversations with Tyler](https://conversationswithtyler.com/ "Conversations with Tyler Podcast")
+- [Serial](https://serialpodcast.org/ "Serial Podcast")
+- [Startup - By Gimlet](https://www.gimletmedia.com/startup/ "Startup - Gimlet - Podcast")
