@@ -8,6 +8,7 @@ Here is a partial list of the podcasts to which I listen. I ’ll update this pa
 **Global Podcast**
 
 - [This American Life](https://www.thisamericanlife.org/listen "This American Life")
+	One of my favorite podcast.It's immersive journalism at its best, and most necessary.
 - [Freakonomics](http://freakonomics.com/ "Freakonomics")
 - [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this "How I Built This")
 - [a16z](https://a16z.com/podcasts/ "a16z podcast")
@@ -20,7 +21,10 @@ Here is a partial list of the podcasts to which I listen. I ’ll update this pa
 - [Conversations with Tyler](https://conversationswithtyler.com/ "Conversations with Tyler Podcast")
 - [Serial](https://serialpodcast.org/ "Serial Podcast")
 - [Startup - By Gimlet](https://www.gimletmedia.com/startup/ "Startup - Gimlet - Podcast")
+- [Without Fail](https://www.gimletmedia.com/without-fail "Without Fail Podcast")
 
 
 **Indian Podcast**
+
+
 
