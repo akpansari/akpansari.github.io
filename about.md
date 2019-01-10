@@ -14,6 +14,8 @@ In my current role in Zoho, I work closely with the Product Managers to figure o
 
 I am comfortable presenting to an audience and working side by side with application developers while coordinating activities with teams of diverse internal and external stakeholders.
 
+I believe that if we know something, we should publish it on the web for the other people to learn from. 
+
 ### Contact me
 
 [ankit@startleventures.com](mailto:email@domain.com)
