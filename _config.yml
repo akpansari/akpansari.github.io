@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 name: Ankit  Pansari
-description: building Products, Communities and Conversations in the Web. 
+description: building Products, Communities and Conversations in the Web.
 navigation:
 - name: Blog
   url: "/"
